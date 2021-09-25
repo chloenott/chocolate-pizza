@@ -1,0 +1,147 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    width: 960px;
+    margin:auto;
+}
+header div{
+    display: inline-block;
+}
+
+header{
+    border-bottom: 10px solid gray;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: 20pt;
+    font-family: "Lucida Handwriting" ;
+}
+
+#header-text{
+    font-size: 9pt;
+}
+
+#icon-group{
+    float: right;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+
+section{
+    border-bottom: solid gray 1px;
+    margin-top: 40px;
+}
+
+h1{
+    font-size: 23pt;
+    font-family: sans-serif;
+}
+
+#date{
+    color: gray;
+}
+
+#content-title{
+    display: inline-block;
+}
+
+#print{
+    float: right;
+    vertical-align: bottom;
+    padding-top: 25px;
+}
+
+#print p{
+    display: inline-block;
+    color: gray;
+}
+
+#pizza{
+    width: 960px;
+    padding-top: 20px;
+}
+
+#article-text{
+    color: gray;
+}
+
+#article-text p{
+    padding: 10px 0px;
+    text-indent: 20px;
+    padding-bottom: 20px;
+}
+
+
+#list-p{
+    margin: 70px 200px;
+    position: absolute;
+    z-index: 2;
+    
+    font-size: 16pt;
+}
+
+#list-items img{
+    z-index: 1;
+    position: absolute;
+    width: 960px;
+}
+
+#list-p1 , #list-p2{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0% 20px;
+}
+#list-p p{
+    display: list-item;
+    list-style: disc;
+}
+#section2{
+    margin-top: 350px;
+    padding-top: 15px;
+    border-top: gray solid 10px;
+    display: inline-block;
+    width: 960px;
+}
+
+#profile-text{
+    display: inline-block;
+    margin-bottom: 15px;
+    position: relative;
+    bottom: 20px;
+    padding-left: 10px;
+    
+}
+
+#button{
+    display: inline-block;
+    margin-top: 22px;
+    float: right;
+}
+
+#section2-div{
+    display: inline-block;
+
+}
+
+footer{
+    width: 960px;
+}
+
+footer img{
+    margin: auto;
+    display: block;
+    position: relative;
+    bottom: 15px;
+}
+
+footer p{
+    text-align: center;
+    color: gray;
+    display: block;
+    margin: auto;
+}
