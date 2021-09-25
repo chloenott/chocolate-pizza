@@ -1,2 +1,3 @@
 # chocolate-pizza
-Lab 10a
+Brandon Wolf -Driver 
+Chole - Navigator
